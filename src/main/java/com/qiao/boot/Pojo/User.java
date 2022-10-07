@@ -8,7 +8,7 @@ import lombok.ToString;
 /**
  * @author 乔世伟
  * @Project_Nmae: spring-boot-web1
- * @Description:
+ * @Description:这是一个实体类
  * @date 2022/10/5 12:46
  */
 @Data
